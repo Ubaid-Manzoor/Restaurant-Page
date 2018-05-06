@@ -18,7 +18,7 @@ const LoadHomePage = ()=>{
                             </div>
                             <div class="div2">
                                 <img src="https://static.wixstatic.com/media/41d000_48ad029824b148e4b7bd13444ad295c9.jpg/v1/fill/w_299,h_225,al_c,q_80,usm_0.66_1.00_0.01/41d000_48ad029824b148e4b7bd13444ad295c9.jpg" alt="#">
-                                    <img src="https://static.wixstatic.com/media/41d000_f7ba1019e0d44b4593129810220ca6b3.jpg/v1/fill/w_299,h_225,al_c,q_80,usm_0.66_1.00_0.01/41d000_f7ba1019e0d44b4593129810220ca6b3.webp" alt="#">
+                                <img src="https://static.wixstatic.com/media/41d000_48ad029824b148e4b7bd13444ad295c9.jpg/v1/fill/w_299,h_225,al_c,q_80,usm_0.66_1.00_0.01/41d000_48ad029824b148e4b7bd13444ad295c9.jpg" alt="#">
                             </div>
                             <div class="div4">
                                 <p>
@@ -42,7 +42,7 @@ const LoadHomePageContent = ()=>{
                         </div>
                         <div class="div2">
                             <img src="https://static.wixstatic.com/media/41d000_48ad029824b148e4b7bd13444ad295c9.jpg/v1/fill/w_299,h_225,al_c,q_80,usm_0.66_1.00_0.01/41d000_48ad029824b148e4b7bd13444ad295c9.jpg" alt="#">
-                                <img src="https://static.wixstatic.com/media/41d000_f7ba1019e0d44b4593129810220ca6b3.jpg/v1/fill/w_299,h_225,al_c,q_80,usm_0.66_1.00_0.01/41d000_f7ba1019e0d44b4593129810220ca6b3.webp" alt="#">
+                                <img src="https://static.wixstatic.com/media/41d000_48ad029824b148e4b7bd13444ad295c9.jpg/v1/fill/w_299,h_225,al_c,q_80,usm_0.66_1.00_0.01/41d000_48ad029824b148e4b7bd13444ad295c9.jpg" alt="#">
                         </div>
                         <div class="div4">
                             <p>
