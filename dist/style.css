@@ -50,6 +50,19 @@ header ul li:hover{
 .container{
     width:70%;
     margin:0 auto;
+    background: #fff;
+    padding: 10px;
+}
+.container .Home_imgs{
+    padding: 30px;
+    font-family: 'Pangolin', cursive;
+    font-size: 20px;
+    background: #444;
+    -ms-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+
 }
 .div1 img{
     height: 100%;
@@ -62,9 +75,9 @@ header ul li:hover{
     display: grid;
 }
 .div4{
-    background: #fff;
     padding: 10px;
     overflow: hidden;
+    color:#fff;
 }
 .about1,.about2,.about3{
     display: inline-block;
@@ -88,6 +101,19 @@ header ul li:hover{
 }
 .container_about{
     background: #fff;
+}
+.container_about p{
+    background: #444;
+    font-family: 'Pangolin', cursive;
+    font-size: 20px;
+    color: #fff;
+}
+.container_about div{
+    background: #444;
+    -ms-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
 }
 .About{
     background: #888 !important;
