@@ -1,0 +1,131 @@
+
+*, ::after, ::before {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body{
+    background: url(background.jpg);
+    background-position: center center;
+    height: 100%;
+}
+.main_header h1{
+    text-align: center;
+    font-size: 25px;
+    background: #fff;
+    font-family: 'Pangolin', cursive;
+    padding: 10px;
+}
+.main_header nav ul{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 70%;
+    margin:0 auto;
+}
+.main_header nav ul li{
+    font-family: 'Pangolin', cursive;
+    text-align: center;
+    background: #fff;
+    padding: 10px;
+    cursor: pointer;
+}
+header ul li:hover{
+    background: #444 !important;
+}
+.Home_imgs{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-column-gap: 1em;
+}
+.Home_imgs img{
+    width: 100%;
+    padding: 10px;
+    background: #fff;
+}
+.main_nav ul li:first-child{
+    background: #aaa;
+}
+.container{
+    width:70%;
+    margin:0 auto;
+}
+.div1 img{
+    height: 100%;
+}
+.div2 img{
+    height: 48%;
+}
+.div2 img:last-child{
+    margin-top:4%;
+    display: grid;
+}
+.div4{
+    background: #fff;
+    padding: 10px;
+    overflow: hidden;
+}
+.about1,.about2,.about3{
+    display: inline-block;
+    padding: 20px;
+    margin-left:10px;
+    margin-right:10px;
+}
+.about1{
+    margin-top:10px;
+    background: #aaa;
+}
+.about2{
+    border-left:5px solid #888;
+    margin-top:5px;
+    margin-bottom: 5px;
+    background: #cbcbcb;
+}
+.about3{
+    background: #aaa;
+    margin-bottom: 10px;
+}
+.container_about{
+    background: #fff;
+}
+.About{
+    background: #888 !important;
+}
+.container_Menu ul{
+    background: #fff;
+    margin:10px;
+    padding: 10px;
+}
+.container_Menu li{
+    font-size: 20px;
+    font-family: 'Pangolin', cursive;
+    padding:10px;
+    background: #444;
+    margin: 5px;
+    -ms-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    color: #fff;
+}
+.container_contact{
+    background: #fff;
+    padding: 10px;
+}
+.container_contact div{
+    padding: 10px;
+    font-family: 'Pangolin', cursive;
+    font-size: 20px;
+    background: #444;
+    -ms-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+.container_contact div p{
+    padding: 5px;
+}
+.container_contact div p:last-child{
+    color:#fff;
+}
